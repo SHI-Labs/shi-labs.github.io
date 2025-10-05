@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0d9faed.css",
+    "main.js": "/static/js/main.635195e6.js",
+    "static/js/140.d9126c49.chunk.js": "/static/js/140.d9126c49.chunk.js",
+    "static/js/101.b6b37840.chunk.js": "/static/js/101.b6b37840.chunk.js",
+    "static/js/787.6f38c2cd.chunk.js": "/static/js/787.6f38c2cd.chunk.js",
+    "static/media/favicon_SHI_up_v2.jpg": "/static/media/favicon_SHI_up_v2.655da41690c894e32c48.jpg",
+    "static/media/flux.md": "/static/media/flux.96754f6b5be487a32541.md",
+    "static/media/main.md": "/static/media/main.cbfb9953e541b9405e5e.md",
+    "index.html": "/index.html",
+    "main.e0d9faed.css.map": "/static/css/main.e0d9faed.css.map",
+    "main.635195e6.js.map": "/static/js/main.635195e6.js.map",
+    "787.6f38c2cd.chunk.js.map": "/static/js/787.6f38c2cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d9faed.css",
+    "static/js/main.635195e6.js"
+  ]
+}

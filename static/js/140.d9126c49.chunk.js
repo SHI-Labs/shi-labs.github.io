@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklab_app=self.webpackChunklab_app||[]).push([[140],{9140:function(a,p,e){a.exports=e.p+"static/media/flux.96754f6b5be487a32541.md"}}]);
